@@ -1,8 +1,8 @@
 # StudyMate
 
 A doubt-solving chatbot for CBSE Class XII Artificial Intelligence (843).
-Ask a doubt and StudyMate finds the best matching passage from the AI Student Handbook,
-showing its unit and section. Built with Python, scikit-learn (TF-IDF + cosine similarity) and Streamlit.
+Ask a doubt and StudyMate finds the best matching passage from the AI Student Handbook.
+Built majorly with Python,scikit-learn Streamlit,joblib and JSON.
 
 **Live app:** https://studymate-lngt9ynyxfzgey2bpj2mqg.streamlit.app/
 
